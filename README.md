@@ -1,6 +1,6 @@
 - Hi, I’m Pluxmxx
-- I’m interested in Ai Programming 
-- Do some project for now
+- I’m interested in Machine learning.
+- Interesting to new project...
 
 
 
